@@ -1,0 +1,310 @@
+First name,Last name,Position,State,DOB,Sex,MaritalDesc,DateofHire,TermReason,EmploymentStatus,Department,ManagerName,RecruitmentSource,PerformanceScore,EngagementSurvey,EmpSatisfaction,Age
+Brown, Mia,Accountant I,MA,11/24/1987,F,Married,10/27/2008,N/A - still employed,Active,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,2.04,2,34
+LaRotonda, William  ,Accountant I,MA,4/26/1984,M ,Divorced,6/1/2014,N/A - still employed,Active,Admin Offices,Brandon R. LeBlanc,Website Banner Ads,Fully Meets,5,4,37
+Steans, Tyrone  ,Accountant I,MA,1/9/1986,M ,Single,9/29/2014,N/A - still employed,Active,Admin Offices,Brandon R. LeBlanc,Internet Search,Fully Meets,3.9,5,36
+Singh, Nan ,Administrative Assistant,MA,5/19/1988,F,Single,1/5/2015,N/A - still employed,Active,Admin Offices,Brandon R. LeBlanc,Website Banner Ads,Fully Meets,5,3,33
+Smith, Leigh Ann,Administrative Assistant,MA,6/14/1987,F,Married,9/26/2011,career change,Voluntarily Terminated,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,3.8,4,34
+Bunbury, Jessica,Area Sales Manager,VA,1/6/1964,F,Married,8/15/2011,Another position,Voluntarily Terminated,Sales,John Smith,Social Networks - Facebook Twitter etc,Fully Meets,3.14,5,58
+Carter, Michelle ,Area Sales Manager,VT,5/15/1963,F,Single,8/18/2014,N/A - still employed,Active,Sales,John Smith,Billboard,Fully Meets,5,5,58
+Dietrich, Jenna  ,Area Sales Manager,WA,5/14/1987,F,Single,2/20/2012,N/A - still employed,Active,Sales,John Smith,Website Banner Ads,PIP,2.3,1,34
+Digitale, Alfred,Area Sales Manager,NH,9/14/1988,M ,Married,8/18/2014,N/A - still employed,Active,Sales,John Smith,Pay Per Click - Google,Fully Meets,3.6,5,33
+Friedman, Gerry,Area Sales Manager,NY,2/24/1969,M ,Single,7/3/2011,N/A - still employed,Active,Sales,John Smith,Diversity Job Fair,Fully Meets,3.65,5,52
+Gill, Whitney  ,Area Sales Manager,OH,10/7/1971,F,Widowed,7/7/2014,attendance,Terminated for Cause,Sales,John Smith,Monster.com,Fully Meets,3.97,4,50
+Gonzales, Ricardo,Area Sales Manager,ID,12/10/1954,M ,Married,12/5/2014,N/A - still employed,Active,Sales,John Smith,Monster.com,Fully Meets,3.98,3,67
+Guilianno, Mike,Area Sales Manager,TN,9/2/1969,M ,Single,7/3/2011,relocation out of area,Voluntarily Terminated,Sales,John Smith,Newspager/Magazine,Fully Meets,4.5,5,52
+Leruth, Giovanni,Area Sales Manager,UT,12/27/1988,M ,Separated,4/30/2012,N/A - still employed,Active,Sales,John Smith,Website Banner Ads,Fully Meets,4.53,3,33
+Mullaney, Howard,Area Sales Manager,AL,2/11/1975,M ,Single,9/29/2014,N/A - still employed,Active,Sales,John Smith,Internet Search,PIP,1.93,3,46
+Ozark, Travis,Area Sales Manager,NC,5/19/1982,M ,Single,5/1/2015,N/A - still employed,Active,Sales,John Smith,Website Banner Ads,Fully Meets,5,5,39
+Strong, Caitrin,Area Sales Manager,MT,12/5/1989,F,Married,9/27/2010,N/A - still employed,Active,Sales,John Smith,Professional Society,Fully Meets,2,4,32
+Valentin,Jackie,Area Sales Manager,AZ,5/23/1991,F,Married,5/7/2011,N/A - still employed,Active,Sales,John Smith,Other,Fully Meets,2.81,3,30
+Villanueva, Noah,Area Sales Manager,ME,11/7/1989,M ,Single,5/3/2012,N/A - still employed,Active,Sales,John Smith,Website Banner Ads,Fully Meets,1.77,4,32
+Buck, Edward,Area Sales Manager,MA,7/7/1975,M ,Married,9/29/2014,N/A - still employed,Active,Sales,Lynn Daneault,Employee Referral,Fully Meets,3.31,5,46
+Costa, Latia,Area Sales Manager,CA,8/11/1988,F,Single,10/1/2011,N/A - still employed,Active,Sales,Lynn Daneault,Other,Exceeds,4.77,5,33
+Fraval, Maruk ,Area Sales Manager,CT,8/28/1963,M ,Single,6/9/2011,N/A - still employed,Active,Sales,Lynn Daneault,Monster.com,Fully Meets,1.64,3,58
+Givens, Myriam,Area Sales Manager,IN,9/22/1989,F,Single,2/16/2015,N/A - still employed,Active,Sales,Lynn Daneault,Pay Per Click - Google,Fully Meets,1.72,5,32
+Jeremy,Prater,Area Sales Manager,NV,9/5/1974,M ,Married,12/5/2014,N/A - still employed,Active,Sales,Lynn Daneault,Website Banner Ads,PIP,1.81,2,47
+Khemmich, Bartholemew,Area Sales Manager,CO,11/27/1979,M ,Single,8/19/2013,N/A - still employed,Active,Sales,Lynn Daneault,Pay Per Click - Google,Fully Meets,2.19,5,42
+Martins, Joseph,Area Sales Manager,TX,11/6/1970,M ,Single,5/14/2012,N/A - still employed,Active,Sales,Lynn Daneault,Employee Referral,Fully Meets,2.94,5,51
+McKinzie, Jac,Area Sales Manager,TX,1/7/1984,M ,Married,6/7/2016,N/A - Has not started yet,Future Start,Sales,Lynn Daneault,Website Banner Ads,Fully Meets,2.91,4,38
+Nguyen, Dheepa,Area Sales Manager,GA,3/31/1989,F,Single,8/7/2013,N/A - still employed,Active,Sales,Lynn Daneault,Pay Per Click - Google,Fully Meets,5,5,32
+Onque, Jasmine,Area Sales Manager,FL,11/5/1990,F,Single,9/30/2013,N/A - still employed,Active,Sales,Lynn Daneault,Pay Per Click - Google,Fully Meets,4.28,3,31
+Potts, Xana,Area Sales Manager,KY,8/29/1988,F,Married,9/1/2012,N/A - still employed,Active,Sales,Lynn Daneault,Website Banner Ads,Fully Meets,4.2,5,33
+Riordan, Michael,Area Sales Manager,ND,1/15/1968,M ,Separated,9/1/2006,N/A - still employed,Active,Sales,Lynn Daneault,Billboard,Exceeds,4.1,3,54
+Terry, Sharlene ,Area Sales Manager,OR,7/5/1965,F,Single,9/29/2014,N/A - still employed,Active,Sales,Lynn Daneault,Monster.com,Fully Meets,3.69,3,56
+Rachael, Maggie,BI Developer,MA,12/5/1980,F,Married,2/10/2016,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,2.02,4,41
+Smith, Jason,BI Developer,MA,4/9/1983,M ,Single,2/15/2017,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.01,5,38
+Westinghouse, Matthew,BI Developer,MA,10/24/1987,M ,Married,4/20/2017,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,1.82,3,34
+Hubert, Robert,BI Developer,MA,6/30/1989,M ,Married,4/20/2017,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,2.06,5,32
+Champaigne, Brian,BI Director,MA,9/2/1972,M ,Married,6/9/2016,N/A - still employed,Active,IT/IS,Jennifer Zamora,Professional Society,Fully Meets,4.5,5,49
+Zamora, Jennifer,CIO,MA,8/30/1979,F,Single,10/4/2010,N/A - still employed,Active,IT/IS,Janet King,Employee Referral,Exceeds,1.12,5,42
+Roper, Katie,Data Architect,MA,11/21/1972,F,Single,7/1/2017,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.94,3,49
+Becker, Renee,Database Administrator,MA,4/4/1986,F,Single,7/7/2014,performance,Terminated for Cause,IT/IS,Simon Roup,Search Engine - Google Bing Yahoo,Fully Meets,1.87,4,35
+Goble, Taisha,Database Administrator,MA,10/23/1971,F,Single,2/16/2015,"no-call, no-show",Terminated for Cause,IT/IS,Simon Roup,Glassdoor,Fully Meets,1.87,4,50
+Hernandez, Daniff,Database Administrator,MA,7/8/1986,M ,Married,2/16/2015,"no-call, no-show",Terminated for Cause,IT/IS,Simon Roup,Employee Referral,Fully Meets,4.33,3,35
+Horton, Jayne,Database Administrator,MA,2/21/1984,F,Single,3/30/2015,N/A - still employed,Active,IT/IS,Simon Roup,Glassdoor,Fully Meets,4.48,5,37
+Johnson, Noelle ,Database Administrator,MA,7/11/1986,F,Married,5/1/2015,N/A - still employed,Leave of Absence,IT/IS,Simon Roup,Glassdoor,Fully Meets,3.75,3,35
+Murray, Thomas,Data Analyst,TX,4/7/1988,M ,Divorced,10/11/2014,N/A - still employed,Active,IT/IS,Simon Roup,Diversity Job Fair,Exceeds,4.28,4,33
+Pearson, Randall,Data Analyst,MA,5/9/1984,M ,Married,1/12/2014,performance,Voluntarily Terminated,IT/IS,Simon Roup,Employee Referral,Fully Meets,1.62,4,37
+Petrowsky, Thelma,Data Analyst,MA,9/16/1984,F,Married,10/11/2014,N/A - still employed,Active,IT/IS,Simon Roup,Employee Referral,Exceeds,3.71,5,37
+Roby, Lori ,Data Analyst,MA,11/10/1981,F,Married,2/16/2015,N/A - still employed,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.69,5,40
+Rogers, Ivan,Data Analyst,MA,8/26/1986,M ,Married,3/30/2015,N/A - still employed,Active,IT/IS,Simon Roup,Pay Per Click - Google,Fully Meets,3.04,3,35
+Salter, Jason,Data Analyst,MA,12/17/1987,M ,Divorced,5/1/2015,hours,Voluntarily Terminated,IT/IS,Simon Roup,Vendor Referral,Fully Meets,2.19,3,34
+Simard, Kramer,Data Analyst,MA,8/2/1970,M ,Married,5/1/2015,N/A - still employed,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.32,3,51
+Zhou, Julia,Data Analyst,MA,2/24/1979,F,Single,3/30/2015,N/A - still employed,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,5,3,42
+Bramante, Elisa,Director of Operations,MA,3/19/1983,F,Single,5/1/2009,N/A - still employed,Active,Production,Janet King,Other,Exceeds,3.02,5,38
+Houlihan, Debra,Director of Sales,RI,3/17/1966,F,Married,5/5/2014,N/A - still employed,Active,Sales,Janet King,MBTA ads,Fully Meets,1.22,4,55
+Foss, Jason,IT Director,MA,5/7/1980,M ,Single,4/15/2011,N/A - still employed,Active,IT/IS,Jennifer Zamora,Professional Society,Exceeds,3.76,5,41
+Roup,Simon,IT Manager - DB,MA,5/4/1973,M ,Single,1/20/2013,N/A - still employed,Active,IT/IS,Jennifer Zamora,Professional Society,Fully Meets,2.96,5,48
+Ruiz, Ricardo,IT Manager - DB,MA,4/1/1964,M ,Divorced,9/1/2012,hours,Voluntarily Terminated,IT/IS,Jennifer Zamora,Diversity Job Fair,Fully Meets,2.51,4,57
+Monroe, Peter,IT Manager - Infra,MA,5/10/1986,M ,Married,2/15/2012,N/A - still employed,Active,IT/IS,Jennifer Zamora,Diversity Job Fair,Needs Improvement,2.39,3,35
+Dougall, Eric,IT Manager - Support,MA,9/7/1970,M ,Single,5/1/2014,N/A - still employed,Active,IT/IS,Jennifer Zamora,Professional Society,Exceeds,1.99,5,51
+Clayton, Rick,IT Support,MA,5/9/1985,M ,Single,5/9/2012,N/A - still employed,Active,IT/IS,Eric Dougall,Glassdoor,Fully Meets,2.55,3,36
+Galia, Lisa,IT Support,CT,6/7/1968,F,Single,1/5/2010,N/A - still employed,Active,IT/IS,Eric Dougall,Vendor Referral,Fully Meets,1.21,4,53
+Lindsay, Leonara ,IT Support,CT,5/10/1988,F,Single,1/21/2011,N/A - still employed,Active,IT/IS,Eric Dougall,Diversity Job Fair,Exceeds,4.64,4,33
+Soto, Julia ,IT Support,MA,12/3/1973,F,Married,10/6/2011,N/A - still employed,Active,IT/IS,Eric Dougall,Information Session,Fully Meets,4.3,3,48
+Bacong, Alejandro ,IT Support,MA,7/1/1988,M ,Divorced,5/1/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Glassdoor,Fully Meets,1.84,5,33
+Cisco, Anthony,IT Support,MA,11/24/1989,M ,Married,3/30/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Information Session,Fully Meets,2.21,5,32
+Dolan, Linda,IT Support,MA,7/18/1988,F,Married,5/1/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.11,4,33
+Gonzalez, Maria,IT Support,MA,4/16/1981,F,Separated,5/1/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.61,4,40
+Merlos, Carlos,Network Engineer,MA,6/18/1987,M ,Single,3/30/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Vendor Referral,PIP,1.2,3,34
+Morway, Tanya,Network Engineer,MA,4/4/1979,F,Married,2/16/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Monster.com,Fully Meets,3.81,3,42
+Shepard, Anita ,Network Engineer,MA,4/14/1981,F,Married,9/30/2014,N/A - still employed,Active,IT/IS,Peter Monroe,Vendor Referral,Fully Meets,3.31,3,40
+Tredinnick, Neville ,Network Engineer,MA,5/5/1988,M ,Married,5/1/2015,medical issues,Voluntarily Terminated,IT/IS,Peter Monroe,Monster.com,Fully Meets,5,3,33
+Turpin, Jumil,Network Engineer,MA,3/31/1969,M ,Married,3/30/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5,4,52
+King, Janet,President & CEO,MA,9/21/1954,F,Married,2/7/2012,N/A - still employed,Active,Executive Office,Board of Directors,Pay Per Click - Google,Fully Meets,4.83,3,67
+Albert, Michael  ,Production Manager,MA,10/10/1968,M ,Divorced,1/8/2011,N/A - still employed,Active,Production,Janet King,Employee Referral,Fully Meets,3.93,3,53
+Bozzi, Charles,Production Manager,MA,10/3/1970,M ,Single,9/30/2013,retiring,Voluntarily Terminated,Production,Janet King,Billboard,Fully Meets,3.39,3,51
+Butler, Webster  L,Production Manager,MA,9/8/1983,M ,Single,1/28/2016,N/A - still employed,Active,Production,Janet King,Pay Per Click - Google,Exceeds,5,3,38
+Dunn, Amy  ,Production Manager,MA,11/28/1973,F,Single,9/18/2014,N/A - still employed,Active,Production,Janet King,Search Engine - Google Bing Yahoo,Fully Meets,4.52,4,48
+Gray, Elijiah  ,Production Manager,MA,11/7/1981,M ,Divorced,2/6/2015,N/A - still employed,Active,Production,Janet King,Employee Referral,Fully Meets,4.63,3,40
+Hogland, Jonathan ,Production Manager,MA,1/7/1972,M ,Married,10/1/2011,attendance,Terminated for Cause,Production,Janet King,Employee Referral,Fully Meets,4.78,4,50
+Immediato, Walter,Production Manager,MA,11/15/1976,M ,Married,2/21/2011,unhappy,Voluntarily Terminated,Production,Janet King,Other,Needs Improvement,2.34,2,45
+Liebig, Ketsia,Production Manager,MA,10/26/1981,F,Married,9/30/2013,N/A - still employed,Active,Production,Janet King,Website Banner Ads,Exceeds,3.66,3,40
+Miller, Brannon,Production Manager,MA,10/8/1981,M ,Single,8/16/2012,N/A - still employed,Active,Production,Janet King,Internet Search,Fully Meets,4.37,3,40
+Peterson, Ebonee  ,Production Manager,MA,9/5/1977,F,Married,10/25/2010,Another position,Voluntarily Terminated,Production,Janet King,Internet Search,Fully Meets,4.16,5,44
+Spirea, Kelley,Production Manager,MA,9/30/1975,F,Married,2/10/2012,N/A - still employed,Active,Production,Janet King,Vendor Referral,Fully Meets,4.83,5,46
+Stanley, David ,Production Manager,MA,12/17/1975,M ,Divorced,7/20/2010,N/A - still employed,Active,Production,Janet King,Monster.com,Needs Improvement,4.13,2,46
+Sullivan, Kissy ,Production Manager,MA,3/28/1978,F,Married,8/1/2009,N/A - still employed,Active,Production,Janet King,Billboard,Fully Meets,3.73,4,43
+Wallace, Courtney  E,Production Manager,MA,11/14/1955,F,Married,9/26/2011,Another position,Voluntarily Terminated,Production,Janet King,Diversity Job Fair,Fully Meets,1.18,3,66
+Anderson, Linda  ,Production Technician I,MA,5/22/1977,F,Single,9/1/2012,N/A - still employed,Active,Production,Amy Dunn,MBTA ads,Exceeds,5,5,44
+Bernstein, Sean,Production Technician I,MA,12/22/1970,M ,Single,2/4/2012,N/A - still employed,Active,Production,Amy Dunn,Word of Mouth,Fully Meets,5,3,51
+Chivukula, Enola,Production Technician I,MA,8/27/1983,F,Single,6/27/2011,relocation out of area,Voluntarily Terminated,Production,Amy Dunn,Other,Fully Meets,2,4,38
+Desimone, Carl ,Production Technician I,MA,4/19/1967,M ,Married,7/7/2014,N/A - still employed,Active,Production,Amy Dunn,Professional Society,PIP,1.12,2,54
+Fernandes, Nilson  ,Production Technician I,MA,10/18/1989,M ,Married,11/5/2015,N/A - still employed,Active,Production,Amy Dunn,Professional Society,PIP,1.56,5,32
+Girifalco, Evelyn,Production Technician I,MA,8/5/1980,F,Single,9/29/2014,N/A - still employed,Active,Production,Amy Dunn,Professional Society,Exceeds,3.39,4,41
+Harrison, Kara,Production Technician I,MA,2/5/1974,F,Married,12/5/2014,N/A - still employed,Active,Production,Amy Dunn,Monster.com,Exceeds,4.76,4,47
+Kirill, Alexandra  ,Production Technician I,MA,8/10/1970,F,Married,9/26/2011,more money,Voluntarily Terminated,Production,Amy Dunn,Search Engine - Google Bing Yahoo,Fully Meets,3.49,4,51
+MacLennan, Samuel,Production Technician I,MA,9/11/1972,M ,Widowed,9/24/2012,hours,Voluntarily Terminated,Production,Amy Dunn,Pay Per Click,Fully Meets,3.08,4,49
+Ndzi, Horia,Production Technician I,MA,3/28/1983,M ,Married,1/4/2013,more money,Voluntarily Terminated,Production,Amy Dunn,Employee Referral,Fully Meets,3.18,3,38
+Perry, Shakira,Production Technician I,MA,7/20/1986,F,Single,5/16/2011,medical issues,Voluntarily Terminated,Production,Amy Dunn,MBTA ads,Fully Meets,3.45,4,35
+Robinson, Alain  ,Production Technician I,MA,7/1/1974,M ,Married,10/1/2011,attendance,Voluntarily Terminated,Production,Amy Dunn,Glassdoor,Fully Meets,5,3,47
+Shields, Seffi,Production Technician I,MA,8/24/1985,F,Married,8/19/2013,N/A - still employed,Active,Production,Amy Dunn,Newspager/Magazine,Fully Meets,4.81,4,36
+Theamstern, Sophia,Production Technician I,MA,9/5/1965,F,Single,5/7/2011,return to school,Voluntarily Terminated,Production,Amy Dunn,Billboard,Fully Meets,3.98,4,56
+Wilber, Barry,Production Technician I,MA,9/9/1965,M ,Married,5/16/2011,unhappy,Voluntarily Terminated,Production,Amy Dunn,Website Banner Ads,Fully Meets,5,3,56
+Bachiochi, Linda,Production Technician I,MA,11/2/1970,F,Single,6/7/2009,N/A - still employed,Leave of Absence,Production,Brannon Miller,Diversity Job Fair,Fully Meets,4.46,3,51
+Billis, Helen,Production Technician I,MA,1/9/1989,F,Married,7/7/2014,N/A - still employed,Active,Production,Brannon Miller,Professional Society,Exceeds,5,3,33
+Clukey, Elijian,Production Technician I,MA,8/26/1980,M ,Married,6/7/2016,N/A - Has not started yet,Future Start,Production,Brannon Miller,Employee Referral,Exceeds,1.97,4,41
+DiNocco, Lily ,Production Technician I,MA,2/12/1978,F,Married,7/1/2013,N/A - still employed,Active,Production,Brannon Miller,Pay Per Click - Google,Needs Improvement,3.88,4,43
+Fidelia,  Libby,Production Technician I,MA,3/16/1981,F,Married,9/1/2012,N/A - still employed,Active,Production,Brannon Miller,Social Networks - Facebook Twitter etc,Fully Meets,5,5,40
+Gonzalez, Cayo,Production Technician I,MA,9/29/1969,M ,Divorced,11/7/2011,N/A - still employed,Active,Production,Brannon Miller,Diversity Job Fair,Exceeds,1.83,4,52
+Ivey, Rose ,Production Technician I,MA,1/28/1991,F,Single,8/19/2013,N/A - still employed,Active,Production,Brannon Miller,Professional Society,Fully Meets,3.99,3,30
+Kretschmer, John,Production Technician I,MA,2/2/1980,M ,Married,10/1/2011,N/A - still employed,Active,Production,Brannon Miller,Pay Per Click - Google,Fully Meets,3.38,3,41
+Mangal, Debbie,Production Technician I,MA,7/11/1974,F,Married,11/11/2013,N/A - still employed,Active,Production,Brannon Miller,On-campus Recruiting,Fully Meets,1.04,3,47
+Ngodup, Shari ,Production Technician I,MA,3/6/1967,F,Separated,1/4/2013,N/A - still employed,Active,Production,Brannon Miller,Diversity Job Fair,Exceeds,1.12,3,54
+Pham, Hong,Production Technician I,MA,6/3/1988,M ,Married,5/7/2011,more money,Voluntarily Terminated,Production,Brannon Miller,Search Engine - Google Bing Yahoo,Fully Meets,5,3,33
+Robinson, Elias,Production Technician I,MA,1/28/1985,M ,Widowed,8/7/2013,N/A - still employed,Active,Production,Brannon Miller,Employee Referral,Exceeds,3.02,5,36
+Sparks, Taylor  ,Production Technician I,MA,7/20/1968,F,Married,2/20/2012,N/A - still employed,Active,Production,Brannon Miller,Billboard,PIP,4.11,2,53
+Tippett, Jeanette,Production Technician I,MA,5/6/1967,F,Divorced,2/18/2013,N/A - still employed,Active,Production,Brannon Miller,Billboard,Fully Meets,4.21,5,54
+Ybarra, Catherine ,Production Technician I,MA,4/5/1982,F,Single,2/9/2008,Another position,Voluntarily Terminated,Production,Brannon Miller,Search Engine - Google Bing Yahoo,PIP,4.29,2,39
+Baczenski, Rachael  ,Production Technician I,MA,12/1/1974,F,Married,10/1/2011,Another position,Voluntarily Terminated,Production,David Stanley,Diversity Job Fair,Fully Meets,1.79,4,47
+Brill, Donna,Production Technician I,MA,8/24/1990,F,Married,2/4/2012,Another position,Voluntarily Terminated,Production,David Stanley,Search Engine - Google Bing Yahoo,Fully Meets,3.35,4,31
+Cockel, James,Production Technician I,MA,8/9/1977,M ,Single,8/7/2013,N/A - still employed,Active,Production,David Stanley,Employee Referral,Fully Meets,1.51,5,44
+Dobrin, Denisa  S,Production Technician I,MA,7/10/1986,F,Single,2/4/2012,N/A - still employed,Active,Production,David Stanley,Monster.com,Fully Meets,2.79,5,35
+Garcia, Raul,Production Technician I,MA,9/15/1985,M ,Single,3/30/2015,N/A - still employed,Active,Production,David Stanley,Employee Referral,Fully Meets,4.5,3,36
+Gordon, David,Production Technician I,MA,5/21/1979,M ,Married,2/7/2012,N/A - still employed,Active,Production,David Stanley,MBTA ads,Fully Meets,5,3,42
+Jackson, Maryellen,Production Technician I,MA,11/9/1972,F,Single,5/11/2012,N/A - still employed,Active,Production,David Stanley,Newspager/Magazine,Fully Meets,2.32,3,49
+Langton, Enrico,Production Technician I,MA,9/12/1986,M ,Married,9/7/2012,N/A - still employed,Active,Production,David Stanley,Newspager/Magazine,Fully Meets,5,5,35
+Maurice, Shana,Production Technician I,MA,11/22/1977,F,Married,5/31/2011,N/A - still employed,Active,Production,David Stanley,Other,Fully Meets,5,4,44
+Nguyen, Lei-Ming,Production Technician I,MA,7/7/1984,F,Single,8/7/2013,N/A - still employed,Active,Production,David Stanley,Vendor Referral,Fully Meets,2.79,5,37
+Pitt, Brad ,Production Technician I,MA,11/23/1981,M ,Single,5/11/2007,N/A - still employed,Active,Production,David Stanley,Search Engine - Google Bing Yahoo,Fully Meets,3.66,3,40
+Rose, Ashley  ,Production Technician I,MA,5/12/1974,F,Separated,6/1/2014,N/A - still employed,Active,Production,David Stanley,Website Banner Ads,Fully Meets,5,4,47
+Squatrito, Kristen,Production Technician I,MA,3/26/1973,F,Divorced,5/13/2013,unhappy,Voluntarily Terminated,Production,David Stanley,MBTA ads,Exceeds,1.97,4,48
+Trang, Mei,Production Technician I,MA,5/16/1983,F,Single,2/17/2014,N/A - still employed,Active,Production,David Stanley,Professional Society,Needs Improvement,2.44,5,38
+Zima, Colleen,Production Technician I,MA,8/17/1978,F,Widowed,9/29/2014,N/A - still employed,Active,Production,David Stanley,On-campus Recruiting,Fully Meets,1.24,5,43
+Alagbe,Trina,Production Technician I,MA,9/27/1988,F,Married,7/1/2008,N/A - still employed,Active,Production,Elijiah Gray,Billboard,Fully Meets,4.84,5,33
+Beatrice, Courtney ,Production Technician I,MA,10/27/1970,F,Single,4/4/2011,N/A - still employed,Active,Production,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets,5,5,51
+Chan, Lin,Production Technician I,MA,12/2/1979,F,Single,12/5/2014,N/A - still employed,Active,Production,Elijiah Gray,Internet Search,Fully Meets,2.73,4,42
+Darson, Jene'ya ,Production Technician I,MA,5/11/1978,F,Married,2/7/2012,N/A - still employed,Active,Production,Elijiah Gray,Billboard,Fully Meets,5,3,43
+Evensen, April,Production Technician I,MA,6/5/1989,F,Single,2/17/2014,"no-call, no-show",Terminated for Cause,Production,Elijiah Gray,Word of Mouth,Needs Improvement,1.04,3,32
+Gerke, Melisa,Production Technician I,MA,5/15/1970,F,Divorced,7/11/2011,hours,Voluntarily Terminated,Production,Elijiah Gray,Diversity Job Fair,Fully Meets,4.24,4,51
+Harrell, Ludwick,Production Technician I,MA,2/9/1982,M ,Married,5/14/2012,N/A - still employed,Active,Production,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets,1.83,3,39
+Jung, Judy  ,Production Technician I,MA,4/17/1986,F,Married,10/1/2011,unhappy,Voluntarily Terminated,Production,Elijiah Gray,Monster.com,Fully Meets,4,4,35
+Lydon, Allison,Production Technician I,MA,10/22/1975,F,Married,2/16/2015,N/A - still employed,Leave of Absence,Production,Elijiah Gray,Website Banner Ads,Fully Meets,5,3,46
+Motlagh,  Dawn,Production Technician I,MA,7/7/1984,F,Divorced,1/4/2013,N/A - still employed,Active,Production,Elijiah Gray,MBTA ads,Fully Meets,1.76,4,37
+Panjwani, Nina,Production Technician I,MA,1/5/1979,F,Married,7/2/2011,Another position,Voluntarily Terminated,Production,Elijiah Gray,Social Networks - Facebook Twitter etc,Fully Meets,3.89,4,43
+Rhoads, Thomas,Production Technician I,MA,7/22/1982,M ,Divorced,5/16/2011,retiring,Voluntarily Terminated,Production,Elijiah Gray,Professional Society,Fully Meets,5,4,39
+Sander, Kamrin,Production Technician I,MA,10/7/1988,F,Married,9/29/2014,N/A - still employed,Active,Production,Elijiah Gray,On-campus Recruiting,Fully Meets,3.51,3,33
+Sutwell, Barbara,Production Technician I,MA,8/15/1968,F,Single,5/14/2012,N/A - still employed,Active,Production,Elijiah Gray,Glassdoor,Fully Meets,2.77,5,53
+Wallace, Theresa,Production Technician I,MA,2/8/1980,F,Single,8/13/2012,career change,Voluntarily Terminated,Production,Elijiah Gray,Monster.com,Needs Improvement,1.27,3,41
+Barone, Francesco  A,Production Technician I,MA,7/20/1983,M ,Single,2/20/2012,N/A - still employed,Active,Production,Kelley Spirea,Social Networks - Facebook Twitter etc,Fully Meets,1.41,4,38
+Carey, Michael  ,Production Technician I,MA,2/2/1983,M ,Single,3/31/2014,N/A - still employed,Active,Production,Kelley Spirea,MBTA ads,Fully Meets,4.43,3,38
+Cornett, Lisa ,Production Technician I,MA,3/31/1977,F,Married,5/1/2015,N/A - still employed,Active,Production,Kelley Spirea,Billboard,Fully Meets,4.73,5,44
+Engdahl, Jean,Production Technician I,MA,5/31/1974,M ,Single,10/11/2014,N/A - still employed,Active,Production,Kelley Spirea,MBTA ads,Fully Meets,1.86,5,47
+England, Rex,Production Technician I,MA,8/25/1978,M ,Married,3/31/2014,N/A - still employed,Active,Production,Kelley Spirea,Employee Referral,Fully Meets,2.05,3,43
+Gaul, Barbara,Production Technician I,MA,2/12/1983,F,Single,5/16/2011,N/A - still employed,Active,Production,Kelley Spirea,MBTA ads,Fully Meets,1.66,4,38
+Gross, Paula,Production Technician I,MA,5/21/1983,F,Divorced,2/21/2011,more money,Voluntarily Terminated,Production,Kelley Spirea,Monster.com,Fully Meets,5,5,38
+Jhaveri, Sneha  ,Production Technician I,MA,4/13/1964,F,Separated,6/1/2014,N/A - still employed,Active,Production,Kelley Spirea,On-campus Recruiting,Fully Meets,5,5,57
+LeBel, Jonathan  R,Production Technician I,MA,10/18/1981,M ,Single,2/21/2011,attendance,Terminated for Cause,Production,Kelley Spirea,Social Networks - Facebook Twitter etc,Fully Meets,5,4,40
+Meads, Elizabeth,Production Technician I,MA,5/30/1968,F,Single,2/4/2012,Another position,Voluntarily Terminated,Production,Kelley Spirea,Diversity Job Fair,Fully Meets,4.18,4,53
+Osturnka, Adeel,Production Technician I,MA,11/12/1976,M ,Married,9/30/2013,N/A - still employed,Active,Production,Kelley Spirea,On-campus Recruiting,Exceeds,2.86,3,45
+Punjabhi, Louis  ,Production Technician I,MA,6/19/1961,M ,Single,6/1/2014,N/A - still employed,Active,Production,Kelley Spirea,Employee Referral,Fully Meets,2.45,3,60
+Saar-Beckles, Melinda,Production Technician I,MA,6/6/1968,F,Single,4/7/2016,N/A - Has not started yet,Future Start,Production,Kelley Spirea,Diversity Job Fair,Needs Improvement,1.12,4,53
+Stoica, Rick,Production Technician I,MA,3/14/1985,M ,Married,2/17/2014,N/A - still employed,Active,Production,Kelley Spirea,On-campus Recruiting,Fully Meets,1.39,3,36
+Volk, Colleen,Production Technician I,MA,3/6/1986,F,Married,9/26/2011,gross misconduct,Terminated for Cause,Production,Kelley Spirea,Social Networks - Facebook Twitter etc,Exceeds,2.79,5,35
+Athwal, Sam,Production Technician I,MA,2/18/1983,M ,Widowed,9/30/2013,N/A - still employed,Active,Production,Ketsia Liebig,Employee Referral,Fully Meets,5,4,38
+Biden, Lowan  M,Production Technician I,MA,12/27/1958,F,Divorced,8/19/2013,N/A - still employed,Active,Production,Ketsia Liebig,Billboard,Fully Meets,2.39,3,63
+Cierpiszewski, Caroline  ,Production Technician I,MA,5/31/1988,F,Single,3/10/2011,N/A - still employed,Active,Production,Ketsia Liebig,Pay Per Click - Google,Fully Meets,3.58,5,33
+Dickinson, Geoff ,Production Technician I,MA,11/15/1982,M ,Single,12/5/2014,N/A - still employed,Active,Production,Ketsia Liebig,Pay Per Click - Google,Fully Meets,1.13,4,39
+Ferreira, Violeta,Production Technician I,MA,10/6/1986,F,Single,2/20/2012,N/A - still employed,Active,Production,Ketsia Liebig,Newspager/Magazine,Fully Meets,1.85,4,35
+Gold, Shenice  ,Production Technician I,MA,6/18/1992,F,Single,11/11/2013,N/A - still employed,Active,Production,Ketsia Liebig,Glassdoor,Fully Meets,1.94,5,29
+Heitzman, Anthony,Production Technician I,MA,4/1/1984,M ,Single,8/13/2012,N/A - still employed,Active,Production,Ketsia Liebig,Social Networks - Facebook Twitter etc,Fully Meets,4.17,4,37
+Knapp, Bradley  J,Production Technician I,MA,10/11/1977,M ,Single,2/17/2014,N/A - still employed,Active,Production,Ketsia Liebig,On-campus Recruiting,Fully Meets,2.79,3,44
+Mahoney, Lauren  ,Production Technician I,MA,7/7/1986,F,Single,6/1/2014,N/A - still employed,Active,Production,Ketsia Liebig,Newspager/Magazine,Fully Meets,2.55,4,35
+Newman, Richard ,Production Technician I,MA,8/4/1977,M ,Married,12/5/2014,N/A - still employed,Leave of Absence,Production,Ketsia Liebig,On-campus Recruiting,Fully Meets,5,5,44
+Peterson, Kayla ,Production Technician I,MA,9/23/1973,F,Married,4/26/2010,N/A - still employed,Active,Production,Ketsia Liebig,Search Engine - Google Bing Yahoo,Fully Meets,2.72,3,48
+Robinson, Cherly,Production Technician I,MA,7/1/1985,F,Married,10/1/2011,attendance,Terminated for Cause,Production,Ketsia Liebig,Glassdoor,Needs Improvement,3.6,3,36
+Smith, Sade,Production Technician I,MA,2/2/1965,F,Single,11/11/2013,N/A - still employed,Active,Production,Ketsia Liebig,Employee Referral,Fully Meets,3.73,3,56
+Tinto, Theresa  ,Production Technician I,MA,7/30/1983,F,Divorced,10/1/2011,Another position,Voluntarily Terminated,Production,Ketsia Liebig,Social Networks - Facebook Twitter etc,Fully Meets,2.81,5,38
+Williams, Jacquelyn  ,Production Technician I,MA,2/10/1969,F,Single,9/1/2012,relocation out of area,Voluntarily Terminated,Production,Ketsia Liebig,Diversity Job Fair,Fully Meets,1.44,4,52
+Barbara, Thomas,Production Technician I,MA,2/21/1974,M ,Married,2/4/2012,unhappy,Voluntarily Terminated,Production,Kissy Sullivan,Diversity Job Fair,Fully Meets,1.98,3,47
+Bugali, Josephine ,Production Technician I,MA,10/30/1969,F,Separated,11/11/2013,N/A - still employed,Leave of Absence,Production,Kissy Sullivan,Diversity Job Fair,Fully Meets,2.83,5,52
+Cole, Spencer,Production Technician I,MA,12/8/1979,M ,Single,11/7/2011,performance,Terminated for Cause,Production,Kissy Sullivan,MBTA ads,Needs Improvement,1.42,3,42
+Eaton, Marianne,Production Technician I,MA,5/9/1991,F,Married,4/4/2011,military,Voluntarily Terminated,Production,Kissy Sullivan,Search Engine - Google Bing Yahoo,Fully Meets,5,3,30
+Garneau, Hamish,Production Technician I,MA,4/18/1980,M ,Single,8/7/2013,N/A - still employed,Active,Production,Kissy Sullivan,Professional Society,Fully Meets,2.61,4,41
+Goyal, Roxana,Production Technician I,MA,9/10/1974,F,Married,8/19/2013,N/A - still employed,Leave of Absence,Production,Kissy Sullivan,On-campus Recruiting,Fully Meets,1.71,5,47
+Jacobi, Hannah  ,Production Technician I,MA,3/22/1966,F,Divorced,9/30/2013,N/A - still employed,Active,Production,Kissy Sullivan,Employee Referral,Fully Meets,2.05,5,55
+Leach, Dallas,Production Technician I,MA,1/17/1979,F,Single,9/26/2011,return to school,Voluntarily Terminated,Production,Kissy Sullivan,Monster.com,Fully Meets,4.88,3,43
+Mckenna, Sandy,Production Technician I,MA,7/1/1987,F,Married,7/1/2013,N/A - still employed,Active,Production,Kissy Sullivan,Monster.com,Fully Meets,3.93,3,34
+O'hare, Lynn,Production Technician I,MA,9/30/1980,F,Single,3/31/2014,performance,Terminated for Cause,Production,Kissy Sullivan,Professional Society,PIP,3.09,2,41
+Power, Morissa,Production Technician I,MA,10/15/1984,F,Divorced,5/16/2011,Another position,Voluntarily Terminated,Production,Kissy Sullivan,Social Networks - Facebook Twitter etc,Fully Meets,3.17,4,37
+Purinton, Janine,Production Technician I,MA,9/22/1970,F,Divorced,9/24/2012,unhappy,Voluntarily Terminated,Production,Kissy Sullivan,Billboard,Fully Meets,1.5,5,51
+Rossetti, Bruno,Production Technician I,MA,3/18/1987,M ,Single,4/4/2011,Another position,Voluntarily Terminated,Production,Kissy Sullivan,Search Engine - Google Bing Yahoo,Fully Meets,5,5,34
+Stanford,Barbara  M,Production Technician I,MA,8/25/1982,F,Divorced,10/1/2011,N/A - still employed,Active,Production,Kissy Sullivan,Word of Mouth,Fully Meets,1.05,4,39
+Veera, Abdellah ,Production Technician I,MA,1/31/1987,M ,Divorced,8/13/2012,maternity leave - did not return,Voluntarily Terminated,Production,Kissy Sullivan,Information Session,Exceeds,3.84,5,34
+Adinolfi, Wilson  K,Production Technician I,MA,10/7/1983,M ,Single,5/7/2011,N/A - still employed,Active,Production,Michael Albert,MBTA ads,Exceeds,2.51,5,38
+Barton, Nader,Production Technician I,MA,7/15/1977,M ,Divorced,9/24/2012,Another position,Voluntarily Terminated,Production,Michael Albert,On-line Web application,Fully Meets,5,5,44
+Chace, Beatrice ,Production Technician I,MA,2/1/1951,F,Single,9/29/2014,N/A - still employed,Active,Production,Michael Albert,Search Engine - Google Bing Yahoo,Fully Meets,5,4,70
+Crimmings,   Jean,Production Technician I,MA,10/4/1987,F,Single,6/7/2016,N/A - Has not started yet,Future Start,Production,Michael Albert,Newspager/Magazine,Fully Meets,4.12,5,34
+Estremera, Miguel,Production Technician I,MA,2/9/1983,M ,Single,2/4/2012,attendance,Terminated for Cause,Production,Michael Albert,Word of Mouth,Needs Improvement,5,4,38
+Gentry, Mildred,Production Technician I,MA,1/10/1990,F,Married,3/30/2015,N/A - still employed,Active,Production,Michael Albert,Professional Society,Fully Meets,3.73,3,32
+Handschiegl, Joanne,Production Technician I,MA,3/23/1977,F,Married,11/28/2011,N/A - still employed,Active,Production,Michael Albert,Word of Mouth,Fully Meets,4.2,4,44
+Johnson, George,Production Technician I,MA,8/19/1959,M ,Married,7/11/2011,more money,Voluntarily Terminated,Production,Michael Albert,Monster.com,Exceeds,1.65,4,62
+Keatts, Kramer ,Production Technician I,MA,1/19/1976,M ,Single,9/30/2013,N/A - still employed,Active,Production,Michael Albert,Billboard,Fully Meets,3.07,4,46
+Linares, Marilyn ,Production Technician I,MA,3/26/1981,F,Married,5/7/2011,unhappy,Voluntarily Terminated,Production,Michael Albert,Internet Search,Fully Meets,3.18,4,40
+Medeiros, Jennifer,Production Technician I,MA,9/22/1976,F,Single,3/30/2015,N/A - still employed,Active,Production,Michael Albert,Monster.com,Fully Meets,5,4,45
+Owad, Clinton,Production Technician I,MA,11/24/1979,M ,Single,2/17/2014,N/A - still employed,Active,Production,Michael Albert,MBTA ads,Needs Improvement,4.25,3,42
+Rarrick, Quinn,Production Technician I,MA,12/31/1984,M ,Divorced,9/26/2011,more money,Voluntarily Terminated,Production,Michael Albert,Pay Per Click - Google,Fully Meets,3.8,5,37
+Sadki, Nore  ,Production Technician I,MA,12/21/1974,M ,Single,5/1/2009,relocation out of area,Voluntarily Terminated,Production,Michael Albert,Word of Mouth,Fully Meets,1.53,5,47
+Sullivan, Timothy,Production Technician I,MA,7/10/1982,M ,Married,5/1/2015,N/A - still employed,Active,Production,Michael Albert,Word of Mouth,Fully Meets,4.36,5,39
+Von Massenbach, Anna,Production Technician I,MA,6/4/1985,F,Single,5/7/2015,N/A - Has not started yet,Future Start,Production,Michael Albert,Newspager/Magazine,Fully Meets,3.21,3,36
+Anderson, Carol ,Production Technician I,MA,8/9/1989,F,Divorced,11/7/2011,return to school,Voluntarily Terminated,Production,Webster Butler,Word of Mouth,Fully Meets,5,4,32
+Becker, Scott,Production Technician I,MA,6/4/1979,M ,Single,8/7/2013,N/A - still employed,Leave of Absence,Production,Webster Butler,MBTA ads,Fully Meets,1.09,4,42
+Chang, Donovan  E,Production Technician I,MA,8/24/1983,M ,Single,8/7/2013,N/A - still employed,Active,Production,Webster Butler,Newspager/Magazine,Fully Meets,3.8,5,38
+DeGweck,  James,Production Technician I,MA,10/31/1977,M ,Married,5/16/2011,unhappy,Voluntarily Terminated,Production,Webster Butler,Billboard,Fully Meets,5,4,44
+Ferguson, Susan,Production Technician I,MA,4/14/1955,F,Married,7/11/2011,military,Voluntarily Terminated,Production,Webster Butler,Search Engine - Google Bing Yahoo,Fully Meets,3.13,3,66
+Gilles, Alex,Production Technician I,MA,9/8/1974,M ,Married,2/4/2012,military,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Needs Improvement,3.97,4,47
+Harrington, Christie ,Production Technician I,MA,8/18/1952,F,Single,9/1/2012,retiring,Voluntarily Terminated,Production,Webster Butler,Monster.com,Fully Meets,4.64,4,69
+Kinsella, Kathleen  ,Production Technician I,MA,8/12/1973,F,Married,9/26/2011,more money,Voluntarily Terminated,Production,Webster Butler,Search Engine - Google Bing Yahoo,Fully Meets,3.6,5,48
+Lynch, Lindsay,Production Technician I,MA,2/14/1973,F,Single,7/11/2011,Another position,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Exceeds,5,4,48
+Ndzi, Colombui,Production Technician I,MA,2/5/1989,M ,Single,9/26/2011,return to school,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Fully Meets,2.61,3,32
+Pelech, Emil,Production Technician I,MA,3/17/1988,M ,Single,10/1/2011,career change,Voluntarily Terminated,Production,Webster Butler,Search Engine - Google Bing Yahoo,Needs Improvement,3.54,5,33
+Rivera, Haley  ,Production Technician I,MA,12/1/1973,F,Married,11/28/2011,N/A - still employed,Active,Production,Webster Butler,Search Engine - Google Bing Yahoo,Exceeds,4.36,5,48
+Sewkumar, Nori,Production Technician I,MA,10/3/1975,F,Single,9/30/2013,N/A - still employed,Leave of Absence,Production,Webster Butler,Search Engine - Google Bing Yahoo,Fully Meets,5,5,46
+Tavares, Desiree  ,Production Technician I,MA,3/4/1975,F,Married,4/27/2009,Another position,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Fully Meets,2.52,5,46
+Whittier, Scott,Production Technician I,MA,5/24/1987,M ,Single,10/1/2011,hours,Voluntarily Terminated,Production,Webster Butler,Newspager/Magazine,Fully Meets,5,5,34
+Burke, Joelle,Production Technician II,MA,2/3/1980,F,Single,5/3/2012,N/A - still employed,Active,Production,Amy Dunn,Employee Referral,Fully Meets,4.51,4,41
+Fitzpatrick, Michael  J,Production Technician II,MA,1/10/1981,M ,Single,5/16/2011,hours,Voluntarily Terminated,Production,Amy Dunn,Social Networks - Facebook Twitter etc,Fully Meets,4.76,5,41
+Huynh, Ming,Production Technician II,MA,9/22/1976,F,Divorced,2/21/2011,unhappy,Voluntarily Terminated,Production,Amy Dunn,Search Engine - Google Bing Yahoo,Fully Meets,3.72,3,45
+Mancuso, Karen,Production Technician II,MA,10/12/1986,F,Married,5/7/2011,Another position,Voluntarily Terminated,Production,Amy Dunn,Newspager/Magazine,Fully Meets,5,4,35
+Pelletier, Ermine,Production Technician II,MA,7/18/1989,F,Married,5/7/2011,unhappy,Voluntarily Terminated,Production,Amy Dunn,Monster.com,Needs Improvement,1.03,5,32
+Trzeciak, Cybil,Production Technician II,MA,3/15/1985,F,Single,10/1/2011,unhappy,Voluntarily Terminated,Production,Amy Dunn,Vendor Referral,Fully Meets,1.3,3,36
+Cloninger, Jennifer,Production Technician II,MA,8/31/1981,F,Married,5/16/2011,unhappy,Voluntarily Terminated,Production,Brannon Miller,Word of Mouth,Fully Meets,1.16,5,40
+Gonzalez, Juan,Production Technician II,MA,12/10/1964,M ,Married,4/26/2010,career change,Voluntarily Terminated,Production,Brannon Miller,Diversity Job Fair,PIP,4.35,3,57
+Johnston, Yen,Production Technician II,MA,8/9/1969,F,Single,7/7/2014,N/A - still employed,Active,Production,Brannon Miller,Professional Society,Exceeds,1.51,3,52
+Miller, Ned,Production Technician II,MA,6/29/1985,M ,Single,8/15/2011,unhappy,Voluntarily Terminated,Production,Brannon Miller,MBTA ads,PIP,5,2,36
+Petingill, Shana  ,Production Technician II,MA,10/3/1979,F,Married,2/4/2012,N/A - still employed,Active,Production,Brannon Miller,MBTA ads,Fully Meets,2.61,3,42
+Winthrop, Jordan  ,Production Technician II,MA,7/11/1958,M ,Single,7/1/2013,retiring,Voluntarily Terminated,Production,Brannon Miller,Professional Society,Exceeds,1.67,3,63
+Close, Phil,Production Technician II,MA,11/25/1978,M ,Married,8/30/2010,career change,Voluntarily Terminated,Production,David Stanley,Other,Fully Meets,1.3,4,43
+Good, Susan,Production Technician II,MA,5/25/1986,F,Married,12/5/2014,N/A - still employed,Leave of Absence,Production,David Stanley,Professional Society,Fully Meets,2.04,3,35
+Langford, Lindsey,Production Technician II,MA,7/25/1979,F,Divorced,7/1/2013,Another position,Voluntarily Terminated,Production,David Stanley,Glassdoor,Fully Meets,4.52,3,42
+Monkfish, Erasumus,Production Technician II,MA,8/17/1992,M ,Married,7/11/2011,N/A - still employed,Active,Production,David Stanley,Professional Society,Fully Meets,2.67,3,29
+Roberson, May,Production Technician II,MA,5/9/1981,F,Divorced,9/26/2011,return to school,Voluntarily Terminated,Production,David Stanley,Search Engine - Google Bing Yahoo,Fully Meets,2.19,4,40
+Wolk, Hang  T,Production Technician II,MA,4/20/1985,F,Single,9/29/2014,N/A - still employed,Active,Production,David Stanley,Newspager/Magazine,Fully Meets,3.4,4,36
+Bondwell, Betsy,Production Technician II,MA,1/16/1967,F,Single,10/1/2011,career change,Voluntarily Terminated,Production,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets,1.38,5,55
+Faller, Megan ,Production Technician II,MA,9/22/1978,F,Married,7/7/2014,N/A - still employed,Active,Production,Elijiah Gray,Professional Society,Fully Meets,1.49,5,43
+Hunts, Julissa,Production Technician II,MA,11/3/1984,F,Single,6/6/2016,N/A - Has not started yet,Future Start,Production,Elijiah Gray,Vendor Referral,Fully Meets,2.92,5,37
+Lunquist, Lisa,Production Technician II,MA,3/28/1982,F,Single,8/19/2013,N/A - still employed,Active,Production,Elijiah Gray,Glassdoor,Exceeds,1.64,4,39
+Nowlan, Kristie,Production Technician II,MA,11/23/1985,F,Single,10/11/2014,N/A - still employed,Active,Production,Elijiah Gray,Glassdoor,Fully Meets,4.53,5,36
+Smith, Joe,Production Technician II,MA,10/30/1963,M ,Single,9/29/2014,N/A - still employed,Active,Production,Elijiah Gray,Pay Per Click - Google,Exceeds,2.41,3,58
+Tejeda, Lenora ,Production Technician II,MA,5/24/1953,F,Married,5/16/2011,Another position,Voluntarily Terminated,Production,Elijiah Gray,Search Engine - Google Bing Yahoo,Fully Meets,3.93,3,68
+Beak, Kimberly  ,Production Technician II,MA,4/17/1966,F,Married,7/21/2016,N/A - Has not started yet,Future Start,Production,Kelley Spirea,Employee Referral,Exceeds,2.7,3,55
+Demita, Carla,Production Technician II,MA,2/25/1951,F,Separated,4/4/2011,more money,Voluntarily Terminated,Production,Kelley Spirea,Search Engine - Google Bing Yahoo,Fully Meets,4.62,5,70
+Hankard, Earnest,Production Technician II,MA,10/8/1988,M ,Single,11/11/2013,N/A - still employed,Active,Production,Kelley Spirea,Newspager/Magazine,Fully Meets,5,3,33
+Hendrickson, Trina,Production Technician II,MA,8/27/1972,F,Single,10/1/2011,hours,Voluntarily Terminated,Production,Kelley Spirea,Monster.com,Fully Meets,5,3,49
+Linden, Mathew,Production Technician II,MA,3/19/1979,M ,Married,8/7/2013,N/A - still employed,Leave of Absence,Production,Kelley Spirea,Information Session,Fully Meets,4,3,42
+Moran, Patrick,Production Technician II,MA,3/12/1976,M ,Single,9/1/2012,N/A - still employed,Leave of Absence,Production,Kelley Spirea,Diversity Job Fair,Fully Meets,2.5,4,45
+Sahoo, Adil,Production Technician II,MA,4/26/1986,M ,Married,8/30/2010,N/A - still employed,Active,Production,Kelley Spirea,Monster.com,Fully Meets,2.08,3,35
+Burkett, Benjamin ,Production Technician II,MA,8/19/1977,M ,Married,4/4/2011,N/A - still employed,Active,Production,Ketsia Liebig,Careerbuilder,Fully Meets,3.25,5,44
+Foreman, Tanya,Production Technician II,MA,8/11/1983,F,Married,4/4/2011,career change,Voluntarily Terminated,Production,Ketsia Liebig,Word of Mouth,Fully Meets,3.66,3,38
+Jeannite, Tayana,Production Technician II,MA,6/11/1986,F,Divorced,5/7/2011,N/A - still employed,Active,Production,Ketsia Liebig,MBTA ads,Exceeds,4.6,4,35
+McCarthy, Brigit,Production Technician II,MA,5/21/1987,F,Single,3/30/2015,N/A - still employed,Active,Production,Ketsia Liebig,Newspager/Magazine,Fully Meets,5,5,34
+Peters, Lauren,Production Technician II,MA,8/17/1986,F,Married,5/16/2011,more money,Voluntarily Terminated,Production,Ketsia Liebig,Pay Per Click - Google,Exceeds,1.79,5,35
+Walker, Roger,Production Technician II,MA,10/2/1976,M ,Single,8/18/2014,N/A - still employed,Active,Production,Ketsia Liebig,Employee Referral,Fully Meets,3.11,5,45
+Akinkuolie, Sarah,Production Technician II,MA,9/19/1988,F,Married,5/7/2011,hours,Voluntarily Terminated,Production,Kissy Sullivan,Newspager/Magazine,Fully Meets,3.02,3,33
+Davis, Daniel,Production Technician II,MA,9/14/1979,M ,Single,7/11/2011,N/A - still employed,Active,Production,Kissy Sullivan,Newspager/Magazine,Fully Meets,3.96,4,42
+Gosciminski, Phylicia  ,Production Technician II,MA,8/12/1983,F,Separated,9/30/2013,N/A - still employed,Leave of Absence,Production,Kissy Sullivan,Word of Mouth,Fully Meets,2.57,5,38
+Latif, Mohammed,Production Technician II,MA,9/5/1984,M ,Married,2/4/2012,more money,Voluntarily Terminated,Production,Kissy Sullivan,Word of Mouth,Fully Meets,1.84,3,37
+Monterro, Luisa,Production Technician II,MA,4/24/1970,F,Single,5/13/2013,N/A - still employed,Active,Production,Kissy Sullivan,Billboard,Exceeds,2.55,3,51
+Robertson, Peter,Production Technician II,MA,3/7/1972,M ,Married,5/7/2011,Another position,Voluntarily Terminated,Production,Kissy Sullivan,Glassdoor,Fully Meets,2.48,5,49
+Woodson, Jason,Production Technician II,MA,11/5/1985,M ,Single,7/7/2014,N/A - still employed,Active,Production,Kissy Sullivan,Vendor Referral,Fully Meets,4.07,4,36
+Blount, Dianna,Production Technician II,MA,9/21/1990,F,Single,4/4/2011,N/A - still employed,Active,Production,Michael Albert,Monster.com,Needs Improvement,1.16,3,31
+Erilus, Angela,Production Technician II,MA,8/25/1989,F,Separated,7/7/2014,N/A - still employed,Active,Production,Michael Albert,Pay Per Click - Google,PIP,4.59,1,32
+Homberger, Adrienne  J,Production Technician II,MA,2/16/1984,F,Married,8/15/2011,relocation out of area,Voluntarily Terminated,Production,Michael Albert,Glassdoor,Fully Meets,3.03,5,37
+Lundy, Susan,Production Technician II,MA,12/26/1976,F,Widowed,8/7/2013,more money,Voluntarily Terminated,Production,Michael Albert,On-campus Recruiting,Fully Meets,4.65,4,45
+Moumanil, Maliki ,Production Technician II,MA,1/12/1974,M ,Separated,5/13/2013,N/A - still employed,Active,Production,Michael Albert,On-campus Recruiting,Fully Meets,4.29,5,48
+Sloan, Constance,Production Technician II,MA,11/25/1987,F,Single,10/26/2009,maternity leave - did not return,Voluntarily Terminated,Production,Michael Albert,Monster.com,Fully Meets,4.68,4,34
+Buccheri, Joseph  ,Production Technician II,MA,7/28/1983,M ,Single,9/29/2014,N/A - still employed,Active,Production,Webster Butler,Word of Mouth,Fully Meets,3.19,3,38
+Fancett, Nicole,Production Technician II,MA,9/27/1987,F,Single,2/17/2014,N/A - still employed,Active,Production,Webster Butler,Newspager/Magazine,Fully Meets,4,4,34
+Hutter, Rosalie,Production Technician II,MA,7/5/1992,F,Separated,5/6/2015,N/A - Has not started yet,Future Start,Production,Webster Butler,Other,Fully Meets,2.63,3,29
+Manchester, Robyn,Production Technician II,MA,8/25/1976,F,Married,11/5/2016,N/A - Has not started yet,Future Start,Production,Webster Butler,Vendor Referral,Fully Meets,5,3,45
+Oliver, Brooke ,Production Technician II,MA,11/2/1952,F,Married,5/14/2012,unhappy,Voluntarily Terminated,Production,Webster Butler,Newspager/Magazine,Fully Meets,5,3,69
+Thibaud, Kenneth,Production Technician II,MA,9/16/1975,M ,Widowed,6/25/2007,military,Voluntarily Terminated,Production,Webster Butler,Pay Per Click - Google,Fully Meets,1.37,4,46
+Daneault, Lynn,Sales Manager,VT,4/19/1990,F,Single,5/5/2014,N/A - still employed,Active,Sales,Debra Houlihan,Pay Per Click - Google,Fully Meets,4.62,4,31
+Kampew, Donysha,Sales Manager,PA,11/11/1989,F,Single,7/11/2011,maternity leave - did not return,Voluntarily Terminated,Sales,Debra Houlihan,Social Networks - Facebook Twitter etc,Fully Meets,1.9,5,32
+Smith, John,Sales Manager,MA,8/16/1984,M ,Divorced,5/18/2014,N/A - still employed,Active,Sales,Debra Houlihan,Diversity Job Fair,Needs Improvement,1.62,4,37
+Le, Binh,Senior BI Developer,MA,6/14/1987,F,Single,2/10/2016,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,2.09,5,34
+Navathe, Kurt,Senior BI Developer,MA,4/25/1970,M ,Single,10/2/2017,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,5,3,51
+Wang, Charlie,Senior BI Developer,MA,8/7/1981,M ,Single,2/15/2017,N/A - still employed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.42,4,40
+LeBlanc, Brandon  R,Shared Services Manager,MA,10/6/1984,M ,Married,5/1/2016,N/A - still employed,Active,Admin Offices,Janet King,Monster.com,Fully Meets,1.95,4,37
+Quinn, Sean,Shared Services Manager,MA,6/11/1984,M ,Married,2/21/2011,career change,Voluntarily Terminated,Admin Offices,Janet King,Diversity Job Fair,Fully Meets,4.15,4,37
+Andreola, Colby,Software Engineer,MA,5/24/1979,F,Single,10/11/2014,N/A - still employed,Active,Software Engineering,Alex Sweetwater,Vendor Referral,Fully Meets,3.04,3,42
+Carabbio, Judith,Software Engineer,MA,5/4/1987,F,Single,11/11/2013,N/A - still employed,Active,Software Engineering,Alex Sweetwater,Pay Per Click - Google,Fully Meets,4.96,4,34
+Del Bosque, Keyla,Software Engineer,MA,5/7/1979,F,Single,9/1/2012,N/A - still employed,Active,Software Engineering,Alex Sweetwater,Monster.com,Fully Meets,3.79,5,42
+Exantus, Susan,Software Engineer,MA,5/15/1987,F,Married,2/5/2011,attendance,Terminated for Cause,Software Engineering,Alex Sweetwater,Billboard,Needs Improvement,2.55,5,34
+Martin, Sandra,Software Engineer,MA,7/11/1987,F,Single,11/11/2013,N/A - still employed,Active,Software Engineering,Alex Sweetwater,Search Engine - Google Bing Yahoo,Fully Meets,1.53,5,34
+Patronick, Luke,Software Engineer,MA,2/20/1979,M ,Single,7/11/2011,Another position,Voluntarily Terminated,Software Engineering,Alex Sweetwater,Diversity Job Fair,Exceeds,1.1,5,42
+Saada, Adell,Software Engineer,MA,7/24/1986,F,Married,5/11/2012,N/A - still employed,Active,Software Engineering,Alex Sweetwater,Pay Per Click - Google,Fully Meets,1.74,3,35
+Szabo, Andrew,Software Engineer,MA,6/5/1983,M ,Single,7/7/2014,N/A - still employed,Active,Software Engineering,Alex Sweetwater,MBTA ads,Exceeds,2.61,5,38
+TRUE, Edward,Software Engineer,MA,6/14/1983,M ,Single,2/18/2013,medical issues,Voluntarily Terminated,Software Engineering,Alex Sweetwater,Diversity Job Fair,Fully Meets,1.11,3,38
+Sweetwater, Alex,Software Engineering Manager,MA,11/22/1966,M ,Single,8/15/2011,N/A - still employed,Active,Software Engineering,Jennifer Zamora,Search Engine - Google Bing Yahoo,Fully Meets,3.84,3,55
+Foster-Baker, Amy,Sr. Accountant,MA,4/16/1979,F,Married,5/1/2009,N/A - still employed,Active,Admin Offices,Board of Directors,Other,Fully Meets,5,3,42
+Boutwell, Bonalyn,Sr. Accountant,MA,4/4/1987,F,Married,2/16/2015,N/A - still employed,Active,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,5,4,34
+Ait Sidi, Karthikeyan   ,Sr. DBA,MA,5/5/1975,M ,Married,3/30/2015,career change,Voluntarily Terminated,IT/IS,Simon Roup,Company Intranet - Partner,Fully Meets,4.96,3,46
+Carr, Claudia  N,Sr. DBA,MA,6/6/1986,F,Single,6/30/2016,N/A - Has not started yet,Future Start,IT/IS,Simon Roup,Vendor Referral,Fully Meets,5,5,35
+Favis, Donald  ,Enterprise Architect,CT,7/30/1964,M ,Single,2/17/2014,hours,Terminated for Cause,IT/IS,Simon Roup,Vendor Referral,Fully Meets,2.94,5,57
+Roehrich, Bianca,Principal Data Architect,MA,5/27/1973,F,Single,5/1/2015,Another position,Voluntarily Terminated,IT/IS,Simon Roup,Vendor Referral,Fully Meets,3.88,3,48
+Daniele, Ann  ,Sr. Network Engineer,CT,1/18/1952,F,Married,10/11/2014,N/A - still employed,Leave of Absence,IT/IS,Peter Monroe,Vendor Referral,Fully Meets,1.55,5,70
+Lajiri,  Jyoti,Sr. Network Engineer,MA,4/23/1986,M ,Married,10/11/2014,N/A - still employed,Leave of Absence,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.46,5,35
+Semizoglou, Jeremiah  ,Sr. Network Engineer,MA,9/2/1983,M ,Married,6/30/2016,N/A - Has not started yet,Future Start,IT/IS,Peter Monroe,On-campus Recruiting,Fully Meets,3.27,4,38
+South, Joe,Sr. Network Engineer,CT,9/9/1965,M ,Single,10/11/2014,N/A - still employed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5,3,56
+Warfield, Sarah,Sr. Network Engineer,MA,2/5/1978,F,Widowed,3/30/2015,N/A - still employed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,1.06,4,43
